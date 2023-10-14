@@ -1,0 +1,24 @@
+{
+  "name": "npm-publish-using-semantic-release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neeleri/npm-publish-using-semantic-release.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neeleri/npm-publish-using-semantic-release/issues"
+  },
+  "homepage": "https://github.com/Neeleri/npm-publish-using-semantic-release#readme",
+  "dependencies": {
+    "commitizen": "^4.3.0",
+    "husky": "^8.0.3"
+  }
+}
