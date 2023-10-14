@@ -3,11 +3,6 @@
   "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
-  "husky": {
-    "hooks": {
-      "prepare-commit-msg": "exec < /dev/tty && npx cz --hook || true"
-    }
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
